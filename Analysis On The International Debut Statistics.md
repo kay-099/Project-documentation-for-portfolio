@@ -1,0 +1,2 @@
+[World Bank: International Debt Data | Kaggle](https://www.kaggle.com/datasets/theworldbank/world-bank-intl-debt)
+The link above heads to the original page that gave me inspiration for this project, it holds information that dates from 1970 to 2015 from all over the world and holds other key indicators that i will use to draw insight and provide information in a presentable manner such as a world map that indicates countries that have a similar GDP or indicate countries that are in the same debut range
